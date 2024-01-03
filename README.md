@@ -4,7 +4,7 @@
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanieldeSousaAlmeida&show_icons=true&theme=holi)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieldeSousaAlmeida)](https://github.com/DanieldeSousaAlmeida/github-readme-stats)
 
 
 
