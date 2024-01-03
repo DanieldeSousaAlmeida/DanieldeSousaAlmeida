@@ -1,6 +1,6 @@
 <h3>Olá meu nome é Daniel de Sousa</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanieldeSousa&show_icons=true&theme=radical)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanieldeSousaAlmeida&show_icons=true&theme=radical)
 
 
 
